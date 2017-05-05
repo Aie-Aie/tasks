@@ -1,0 +1,6 @@
+.idea/
+demo.txt
+requirements.txt
+flask/*
+.gitignore
+*.pyc
